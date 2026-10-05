@@ -1,1 +1,2 @@
 time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,reason,conviction,account,price_estimated
+2026-10-05T12:05:48-04:00,7c952db4,OPEN,SPX 10/05 7760C/7770C spread,SPX,call,2,3.75,3.75,2.0,,Sell SPX 7760C/7770C 0DTE credit spread for $3.85 · SPX Spreads,,paper,False
