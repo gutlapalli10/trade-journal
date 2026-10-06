@@ -1,3 +1,4 @@
 time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,reason,conviction,account,price_estimated
 2026-10-05T12:05:48-04:00,7c952db4,OPEN,SPX 10/05 7760C/7770C spread,SPX,call,2,3.75,3.75,2.0,,Sell SPX 7760C/7770C 0DTE credit spread for $3.85 · SPX Spreads,,paper,False
 2026-10-05T15:50:02-04:00,7c952db4,CLOSE,SPX 10/05 7760C/7770C spread,SPX,call,2,12.4,3.75,4.0,-1734.0,end-of-day close (15:50 ET),,paper,False
+2026-10-06T13:59:28-04:00,70c10751,OPEN,SPX 10/06 7830C/7840C spread,SPX,call,2,2.1,2.1,2.0,,Sell SPX 7830C/7840C 0DTE credit spread for $2.10 · SPX Spreads,,paper,False
