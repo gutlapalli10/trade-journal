@@ -117,5 +117,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-07T15:50:01-04:00",
+  "trade_id": "11b26e4c",
+  "action": "CLOSE",
+  "contract": "SPX 10/07 7775C/7785C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 15.8,
+  "entry_price": 4.0,
+  "fees": 4.0,
+  "pnl": -2364.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
