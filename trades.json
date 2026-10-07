@@ -83,5 +83,22 @@
   "conviction": "strong",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-07T10:17:03-04:00",
+  "trade_id": "b3774763",
+  "action": "SELL",
+  "contract": "QQQ261007P00753000",
+  "underlying": "QQQ",
+  "side": "put",
+  "qty": 1,
+  "price": 1.22,
+  "entry_price": 1.58,
+  "fees": 0.0,
+  "pnl": -36.0,
+  "reason": "premium stop -22%",
+  "conviction": "strong",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
