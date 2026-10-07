@@ -66,5 +66,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-07T10:05:04-04:00",
+  "trade_id": "b3774763",
+  "action": "BUY",
+  "contract": "QQQ261007P00753000",
+  "underlying": "QQQ",
+  "side": "put",
+  "qty": 1,
+  "price": 1.58,
+  "entry_price": 1.58,
+  "fees": 0.0,
+  "pnl": null,
+  "reason": "BUY_PUT QQQ @ 753.18 \u00b7 AlertMeter \u00b7 Strong",
+  "conviction": "strong",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
