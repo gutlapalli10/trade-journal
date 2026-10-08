@@ -168,5 +168,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-08T14:24:35-04:00",
+  "trade_id": "6350a0ea",
+  "action": "OPEN",
+  "contract": "SPX 10/08 7760P/7750P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 3.8,
+  "entry_price": 3.8,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7760P/7750P 0DTE credit spread for $3.60 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
