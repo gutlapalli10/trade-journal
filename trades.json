@@ -185,5 +185,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-08T15:24:06-04:00",
+  "trade_id": "6350a0ea",
+  "action": "CLOSE",
+  "contract": "SPX 10/08 7760P/7750P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 1.85,
+  "entry_price": 3.8,
+  "fees": 4.0,
+  "pnl": 386.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
