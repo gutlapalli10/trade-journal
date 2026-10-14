@@ -321,5 +321,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-14T10:10:03-04:00",
+  "trade_id": "475236e9",
+  "action": "BUY",
+  "contract": "SPY261014P00773000",
+  "underlying": "SPY",
+  "side": "put",
+  "qty": 1,
+  "price": 1.21,
+  "entry_price": 1.21,
+  "fees": 0.0,
+  "pnl": null,
+  "reason": "BUY_PUT SPY @ 773.01 \u00b7 AlertMeter \u00b7 Strong",
+  "conviction": "strong",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
