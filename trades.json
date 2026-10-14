@@ -457,5 +457,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-14T15:50:02-04:00",
+  "trade_id": "5265abbb",
+  "action": "CLOSE",
+  "contract": "SPX 10/14 7715C/7725C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.2,
+  "entry_price": 2.9,
+  "fees": 4.0,
+  "pnl": -264.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
