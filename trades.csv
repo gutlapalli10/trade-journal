@@ -20,3 +20,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-10-14T09:59:29-04:00,89416272,OPEN,SPX 10/14 7760C/7770C spread,SPX,call,2,4.7,4.7,2.0,,Sell SPX 7760C/7770C 0DTE credit spread for $4.70 · SPX Spreads,,paper,False
 2026-10-14T10:10:03-04:00,475236e9,BUY,SPY261014P00773000,SPY,put,1,1.21,1.21,0.0,,BUY_PUT SPY @ 773.01 · AlertMeter · Strong,strong,paper,False
 2026-10-14T10:13:22-04:00,d1e1cad0,OPEN,SPX 10/14 7755C/7765C spread,SPX,call,2,4.1,4.1,2.0,,Sell SPX 7755C/7765C 0DTE credit spread for $4.50 · SPX Spreads,,paper,False
+2026-10-14T10:34:59-04:00,475236e9,SELL,SPY261014P00773000,SPY,put,1,0.95,1.21,0.0,-26.0,premium stop -21%,strong,paper,False
