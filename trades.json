@@ -372,5 +372,22 @@
   "conviction": "strong",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-14T11:04:49-04:00",
+  "trade_id": "89416272",
+  "action": "CLOSE",
+  "contract": "SPX 10/14 7760C/7770C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 2.35,
+  "entry_price": 4.7,
+  "fees": 4.0,
+  "pnl": 466.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
