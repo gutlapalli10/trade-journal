@@ -355,5 +355,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-14T10:34:59-04:00",
+  "trade_id": "475236e9",
+  "action": "SELL",
+  "contract": "SPY261014P00773000",
+  "underlying": "SPY",
+  "side": "put",
+  "qty": 1,
+  "price": 0.95,
+  "entry_price": 1.21,
+  "fees": 0.0,
+  "pnl": -26.0,
+  "reason": "premium stop -21%",
+  "conviction": "strong",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
