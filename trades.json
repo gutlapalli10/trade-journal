@@ -304,5 +304,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-14T09:59:29-04:00",
+  "trade_id": "89416272",
+  "action": "OPEN",
+  "contract": "SPX 10/14 7760C/7770C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.7,
+  "entry_price": 4.7,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7760C/7770C 0DTE credit spread for $4.70 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
