@@ -508,5 +508,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-15T12:06:00-04:00",
+  "trade_id": "9603815c",
+  "action": "OPEN",
+  "contract": "SPX 10/15 7725C/7735C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.5,
+  "entry_price": 4.5,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7725C/7735C 10/15 credit spread \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
