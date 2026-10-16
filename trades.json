@@ -559,5 +559,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-16T15:50:01-04:00",
+  "trade_id": "2240cc02",
+  "action": "CLOSE",
+  "contract": "SPX 10/16 7730P/7720P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 28.2,
+  "entry_price": 3.7,
+  "fees": 4.0,
+  "pnl": -4904.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
