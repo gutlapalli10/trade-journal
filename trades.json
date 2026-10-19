@@ -593,5 +593,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-19T11:23:32-04:00",
+  "trade_id": "69a46c0a",
+  "action": "CLOSE",
+  "contract": "SPX 10/19 7710P/7700P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 2.3,
+  "entry_price": 4.7,
+  "fees": 4.0,
+  "pnl": 476.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
