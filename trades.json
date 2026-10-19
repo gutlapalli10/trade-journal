@@ -610,5 +610,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-19T14:00:36-04:00",
+  "trade_id": "dd9c81cd",
+  "action": "OPEN",
+  "contract": "SPX 10/19 7705P/7695P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 4.5,
+  "entry_price": 4.5,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7705P/7695P 0DTE credit spread for $4.30 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
