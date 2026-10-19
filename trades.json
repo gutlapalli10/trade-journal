@@ -576,5 +576,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-19T10:42:48-04:00",
+  "trade_id": "69a46c0a",
+  "action": "OPEN",
+  "contract": "SPX 10/19 7710P/7700P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 4.7,
+  "entry_price": 4.7,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7710P/7700P 0DTE credit spread for $4.80 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
