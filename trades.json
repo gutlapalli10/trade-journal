@@ -729,5 +729,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-20T13:57:35-04:00",
+  "trade_id": "45b4e116",
+  "action": "OPEN",
+  "contract": "SPX 10/20 7720C/7730C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.15,
+  "entry_price": 4.15,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7720C/7730C 0DTE credit spread for $4.30 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
