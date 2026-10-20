@@ -38,3 +38,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-10-19T14:00:36-04:00,dd9c81cd,OPEN,SPX 10/19 7705P/7695P spread,SPX,put,2,4.5,4.5,2.0,,Sell SPX 7705P/7695P 0DTE credit spread for $4.30 · SPX Spreads,,paper,False
 2026-10-19T15:19:10-04:00,dd9c81cd,CLOSE,SPX 10/19 7705P/7695P spread,SPX,put,2,2.25,4.5,4.0,446.0,take profit (50% of credit),,paper,False
 2026-10-20T11:19:37-04:00,bcd88b04,OPEN,SPX 10/20 7725C/7735C spread,SPX,call,2,4.5,4.5,2.0,,Sell SPX 7725C/7735C 0DTE credit spread for $4.75 · SPX Spreads,,paper,False
+2026-10-20T12:20:28-04:00,bcd88b04,CLOSE,SPX 10/20 7725C/7735C spread,SPX,call,2,2.2,4.5,4.0,456.0,take profit (50% of credit),,paper,False
