@@ -712,5 +712,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-20T13:34:41-04:00",
+  "trade_id": "1a377a9f",
+  "action": "OPEN",
+  "contract": "SPX 10/21 7720C/7730C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 5.1,
+  "entry_price": 5.1,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7720C/7730C 10/21 credit spread for $5.10 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
