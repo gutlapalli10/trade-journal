@@ -661,5 +661,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-20T12:20:28-04:00",
+  "trade_id": "bcd88b04",
+  "action": "CLOSE",
+  "contract": "SPX 10/20 7725C/7735C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 2.2,
+  "entry_price": 4.5,
+  "fees": 4.0,
+  "pnl": 456.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
