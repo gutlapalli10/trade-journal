@@ -831,5 +831,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-22T15:50:04-04:00",
+  "trade_id": "306b5c13",
+  "action": "CLOSE",
+  "contract": "SPX 10/22 7695P/7685P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 14.8,
+  "entry_price": 4.2,
+  "fees": 4.0,
+  "pnl": -2124.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
