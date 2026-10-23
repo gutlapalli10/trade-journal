@@ -848,5 +848,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-23T11:13:30-04:00",
+  "trade_id": "0f17c303",
+  "action": "OPEN",
+  "contract": "SPX 10/23 7645P/7635P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 3.9,
+  "entry_price": 3.9,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7645P/7635P 0DTE credit spread for $3.60 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
