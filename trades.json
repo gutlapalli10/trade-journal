@@ -865,5 +865,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-23T15:50:01-04:00",
+  "trade_id": "0f17c303",
+  "action": "CLOSE",
+  "contract": "SPX 10/23 7645P/7635P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 9.5,
+  "entry_price": 3.9,
+  "fees": 4.0,
+  "pnl": -1124.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
