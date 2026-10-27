@@ -882,5 +882,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-27T10:26:23-04:00",
+  "trade_id": "4f329b46",
+  "action": "OPEN",
+  "contract": "SPX 10/27 7690P/7680P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 4.6,
+  "entry_price": 4.6,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7690P/7680P 0DTE credit spread for $4.95 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
