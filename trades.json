@@ -984,5 +984,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-28T11:55:27-04:00",
+  "trade_id": "b2d350ae",
+  "action": "OPEN",
+  "contract": "QQQ 10/29 720C/722C spread",
+  "underlying": "QQQ",
+  "side": "call",
+  "qty": 2,
+  "price": 1.14,
+  "entry_price": 1.14,
+  "fees": 0.0,
+  "pnl": null,
+  "reason": "Sell QQQ 720C/722C 10/29 credit spread for $1.15 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
