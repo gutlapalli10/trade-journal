@@ -63,3 +63,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-10-29T10:48:29-04:00,2cd6e1e2,OPEN,QQQ 10/29 716C/718C spread,QQQ,call,2,0.58,0.58,0.0,,Sell QQQ 716C/718C 0DTE credit spread for $0.61 · SPX Spreads,,paper,False
 2026-10-29T11:20:12-04:00,f08f600e,OPEN,SPX 10/30 7720C/7730C spread,SPX,call,2,5.05,5.05,2.0,,Sell SPX 7720C/7730C 10/30 credit spread for $5.30 · SPX Spreads,,paper,False
 2026-10-29T13:13:47-04:00,d1e4666f,CLOSE,SPX 10/29 7720C/7730C spread,SPX,call,2,2.1,4.3,4.0,436.0,take profit (50% of credit),,paper,False
+2026-10-29T15:14:24-04:00,2cd6e1e2,CLOSE,QQQ 10/29 716C/718C spread,QQQ,call,2,0.29,0.58,0.0,58.0,take profit (50% of credit),,paper,False
