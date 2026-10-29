@@ -1001,5 +1001,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-29T09:30:25-04:00",
+  "trade_id": "b2d350ae",
+  "action": "CLOSE",
+  "contract": "QQQ 10/29 720C/722C spread",
+  "underlying": "QQQ",
+  "side": "call",
+  "qty": 2,
+  "price": 0.53,
+  "entry_price": 1.14,
+  "fees": 0.0,
+  "pnl": 122.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
