@@ -1035,5 +1035,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-29T10:48:29-04:00",
+  "trade_id": "2cd6e1e2",
+  "action": "OPEN",
+  "contract": "QQQ 10/29 716C/718C spread",
+  "underlying": "QQQ",
+  "side": "call",
+  "qty": 2,
+  "price": 0.58,
+  "entry_price": 0.58,
+  "fees": 0.0,
+  "pnl": null,
+  "reason": "Sell QQQ 716C/718C 0DTE credit spread for $0.61 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
