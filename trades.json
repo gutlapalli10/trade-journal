@@ -1069,5 +1069,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-29T13:13:47-04:00",
+  "trade_id": "d1e4666f",
+  "action": "CLOSE",
+  "contract": "SPX 10/29 7720C/7730C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 2.1,
+  "entry_price": 4.3,
+  "fees": 4.0,
+  "pnl": 436.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
