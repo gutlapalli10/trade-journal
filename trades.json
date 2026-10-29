@@ -1103,5 +1103,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-29T15:38:17-04:00",
+  "trade_id": "fbab7908",
+  "action": "OPEN",
+  "contract": "SPX 10/29 7705C/7715C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.7,
+  "entry_price": 4.7,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7705C/7715C 0DTE credit spread for $4.45 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
