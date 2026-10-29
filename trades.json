@@ -1120,5 +1120,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-29T15:45:09-04:00",
+  "trade_id": "fbab7908",
+  "action": "CLOSE",
+  "contract": "SPX 10/29 7705C/7715C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 2.15,
+  "entry_price": 4.7,
+  "fees": 4.0,
+  "pnl": 506.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
