@@ -1086,5 +1086,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-29T15:14:24-04:00",
+  "trade_id": "2cd6e1e2",
+  "action": "CLOSE",
+  "contract": "QQQ 10/29 716C/718C spread",
+  "underlying": "QQQ",
+  "side": "call",
+  "qty": 2,
+  "price": 0.29,
+  "entry_price": 0.58,
+  "fees": 0.0,
+  "pnl": 58.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
