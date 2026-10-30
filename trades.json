@@ -1171,5 +1171,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-30T15:50:05-04:00",
+  "trade_id": "60b1bec6",
+  "action": "CLOSE",
+  "contract": "QQQ 10/30 697P/695P spread",
+  "underlying": "QQQ",
+  "side": "put",
+  "qty": 2,
+  "price": 2.85,
+  "entry_price": 0.91,
+  "fees": 0.0,
+  "pnl": -388.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
