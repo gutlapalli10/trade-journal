@@ -1154,5 +1154,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-10-30T09:52:38-04:00",
+  "trade_id": "60b1bec6",
+  "action": "OPEN",
+  "contract": "QQQ 10/30 697P/695P spread",
+  "underlying": "QQQ",
+  "side": "put",
+  "qty": 2,
+  "price": 0.91,
+  "entry_price": 0.91,
+  "fees": 0.0,
+  "pnl": null,
+  "reason": "Sell QQQ 697P/695P 0DTE credit spread for $0.91 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
