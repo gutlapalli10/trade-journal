@@ -1239,5 +1239,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-03T15:50:03-05:00",
+  "trade_id": "840c7cee",
+  "action": "CLOSE",
+  "contract": "SPX 11/03 7560C/7570C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 6.55,
+  "entry_price": 4.45,
+  "fees": 4.0,
+  "pnl": -424.0,
+  "reason": "end-of-day close (15:50 ET)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
