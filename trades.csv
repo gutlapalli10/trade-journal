@@ -71,3 +71,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-10-30T15:50:05-04:00,60b1bec6,CLOSE,QQQ 10/30 697P/695P spread,QQQ,put,2,2.85,0.91,0.0,-388.0,end-of-day close (15:50 ET),,paper,False
 2026-11-03T14:58:37-05:00,58b8bd70,OPEN,SPX 11/03 7555C/7565C spread,SPX,call,2,5.3,5.3,2.0,,Sell SPX 7555C/7565C 0DTE credit spread for $5.30 · SPX Spreads,,paper,False
 2026-11-03T15:16:13-05:00,840c7cee,OPEN,SPX 11/03 7560C/7570C spread,SPX,call,2,4.45,4.45,2.0,,Sell SPX 7560C/7570C 0DTE credit spread for $4.30 · SPX Spreads,,paper,False
+2026-11-03T15:50:03-05:00,58b8bd70,CLOSE,SPX 11/03 7555C/7565C spread,SPX,call,2,9.5,5.3,4.0,-844.0,end-of-day close (15:50 ET),,paper,False
