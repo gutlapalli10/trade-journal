@@ -1205,5 +1205,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-03T15:16:13-05:00",
+  "trade_id": "840c7cee",
+  "action": "OPEN",
+  "contract": "SPX 11/03 7560C/7570C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.45,
+  "entry_price": 4.45,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7560C/7570C 0DTE credit spread for $4.30 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
