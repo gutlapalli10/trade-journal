@@ -1188,5 +1188,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-03T14:58:37-05:00",
+  "trade_id": "58b8bd70",
+  "action": "OPEN",
+  "contract": "SPX 11/03 7555C/7565C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 5.3,
+  "entry_price": 5.3,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7555C/7565C 0DTE credit spread for $5.30 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
