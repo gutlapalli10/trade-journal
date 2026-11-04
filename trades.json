@@ -1273,5 +1273,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-04T11:06:23-05:00",
+  "trade_id": "1810db74",
+  "action": "CLOSE",
+  "contract": "SPX 11/04 7700C/7715C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 1,
+  "price": 3.0,
+  "entry_price": 6.1,
+  "fees": 2.0,
+  "pnl": 308.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
