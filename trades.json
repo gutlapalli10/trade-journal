@@ -1290,5 +1290,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-04T12:04:11-05:00",
+  "trade_id": "a9fe902d",
+  "action": "OPEN",
+  "contract": "SPX 11/04 7700C/7710C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 4.8,
+  "entry_price": 4.8,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7700C/7710C 0DTE credit spread for $4.75 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
