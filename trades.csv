@@ -73,3 +73,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-11-03T15:16:13-05:00,840c7cee,OPEN,SPX 11/03 7560C/7570C spread,SPX,call,2,4.45,4.45,2.0,,Sell SPX 7560C/7570C 0DTE credit spread for $4.30 · SPX Spreads,,paper,False
 2026-11-03T15:50:03-05:00,58b8bd70,CLOSE,SPX 11/03 7555C/7565C spread,SPX,call,2,9.5,5.3,4.0,-844.0,end-of-day close (15:50 ET),,paper,False
 2026-11-03T15:50:03-05:00,840c7cee,CLOSE,SPX 11/03 7560C/7570C spread,SPX,call,2,6.55,4.45,4.0,-424.0,end-of-day close (15:50 ET),,paper,False
+2026-11-04T09:57:38-05:00,1810db74,OPEN,SPX 11/04 7700C/7715C spread,SPX,call,1,6.1,6.1,1.0,,Sell SPX 7700C/7715C 11/04 credit spread for $6.50 · SPX Spreads,,paper,False
