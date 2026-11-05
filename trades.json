@@ -1324,5 +1324,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-05T09:56:25-05:00",
+  "trade_id": "bb1a6f44",
+  "action": "OPEN",
+  "contract": "SPX 11/06 7630C/7650C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 1,
+  "price": 5.5,
+  "entry_price": 5.5,
+  "fees": 1.0,
+  "pnl": null,
+  "reason": "Sell SPX 7630C/7650C 11/06 credit spread \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
