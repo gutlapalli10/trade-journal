@@ -1392,5 +1392,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-05T10:34:42-05:00",
+  "trade_id": "a45b3b2b",
+  "action": "OPEN",
+  "contract": "SPX 11/05 7500P/7490P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 4.5,
+  "entry_price": 4.5,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7500P/7490P 0DTE credit spread for $4.35 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
