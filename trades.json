@@ -1409,5 +1409,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-05T11:35:19-05:00",
+  "trade_id": "a45b3b2b",
+  "action": "CLOSE",
+  "contract": "SPX 11/05 7500P/7490P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 2.1,
+  "entry_price": 4.5,
+  "fees": 4.0,
+  "pnl": 476.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
