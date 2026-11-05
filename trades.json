@@ -1375,5 +1375,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-05T10:27:19-05:00",
+  "trade_id": "bd765cdd",
+  "action": "CLOSE",
+  "contract": "SPX 11/06 7625C/7635C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 1.4,
+  "entry_price": 2.8,
+  "fees": 4.0,
+  "pnl": 276.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
