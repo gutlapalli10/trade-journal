@@ -78,3 +78,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-11-04T12:04:11-05:00,a9fe902d,OPEN,SPX 11/04 7700C/7710C spread,SPX,call,2,4.8,4.8,2.0,,Sell SPX 7700C/7710C 0DTE credit spread for $4.75 · SPX Spreads,,paper,False
 2026-11-04T15:06:36-05:00,a9fe902d,CLOSE,SPX 11/04 7700C/7710C spread,SPX,call,2,2.4,4.8,4.0,476.0,take profit (50% of credit),,paper,False
 2026-11-05T09:56:25-05:00,bb1a6f44,OPEN,SPX 11/06 7630C/7650C spread,SPX,call,1,5.5,5.5,1.0,,Sell SPX 7630C/7650C 11/06 credit spread · SPX Spreads,,paper,False
+2026-11-05T09:57:56-05:00,bd765cdd,OPEN,SPX 11/06 7625C/7635C spread,SPX,call,2,2.8,2.8,2.0,,Sell SPX 7625C/7635C 11/06 credit spread · SPX Spreads,,paper,False
