@@ -1426,5 +1426,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-06T10:10:56-05:00",
+  "trade_id": "381d03e9",
+  "action": "OPEN",
+  "contract": "SPX 11/06 7410P/7400P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 3.6,
+  "entry_price": 3.6,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7410P/7400P 0DTE credit spread for $3.95 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
