@@ -1545,5 +1545,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-06T14:52:28-05:00",
+  "trade_id": "cdf9210f",
+  "action": "CLOSE",
+  "contract": "SPX 11/06 7415C/7430C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 1,
+  "price": 1.7,
+  "entry_price": 3.4,
+  "fees": 2.0,
+  "pnl": 168.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
