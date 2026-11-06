@@ -86,3 +86,4 @@ time,trade_id,action,contract,underlying,side,qty,price,entry_price,fees,pnl,rea
 2026-11-06T10:10:56-05:00,381d03e9,OPEN,SPX 11/06 7410P/7400P spread,SPX,put,2,3.6,3.6,2.0,,Sell SPX 7410P/7400P 0DTE credit spread for $3.95 · SPX Spreads,,paper,False
 2026-11-06T11:41:52-05:00,ef8e0e6a,OPEN,SPX 11/06 7430C/7440C spread,SPX,call,2,4.4,4.4,2.0,,Sell SPX 7430C/7440C 0DTE credit spread for $4.55 · SPX Spreads,,paper,False
 2026-11-06T12:15:31-05:00,83f7530f,OPEN,SPX 11/06 7435C/7445C spread,SPX,call,2,3.0,3.0,2.0,,Sell SPX 7435C/7445C 0DTE credit spread for $3.10 · SPX Spreads,,paper,False
+2026-11-06T12:36:45-05:00,83f7530f,CLOSE,SPX 11/06 7435C/7445C spread,SPX,call,2,1.0,3.0,4.0,396.0,take profit (50% of credit),,paper,False
