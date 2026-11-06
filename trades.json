@@ -1460,5 +1460,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-06T12:15:31-05:00",
+  "trade_id": "83f7530f",
+  "action": "OPEN",
+  "contract": "SPX 11/06 7435C/7445C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 3.0,
+  "entry_price": 3.0,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7435C/7445C 0DTE credit spread for $3.10 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
