@@ -1528,5 +1528,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-06T14:21:36-05:00",
+  "trade_id": "cdf9210f",
+  "action": "OPEN",
+  "contract": "SPX 11/06 7415C/7430C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 1,
+  "price": 3.4,
+  "entry_price": 3.4,
+  "fees": 1.0,
+  "pnl": null,
+  "reason": "Sell SPX 7415C/7430C 0DTE credit spread for $3.60 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
