@@ -1494,5 +1494,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-06T12:36:55-05:00",
+  "trade_id": "ef8e0e6a",
+  "action": "CLOSE",
+  "contract": "SPX 11/06 7430C/7440C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 2.2,
+  "entry_price": 4.4,
+  "fees": 4.0,
+  "pnl": 436.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
