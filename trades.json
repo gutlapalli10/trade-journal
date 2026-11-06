@@ -1511,5 +1511,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-06T12:41:19-05:00",
+  "trade_id": "381d03e9",
+  "action": "CLOSE",
+  "contract": "SPX 11/06 7410P/7400P spread",
+  "underlying": "SPX",
+  "side": "put",
+  "qty": 2,
+  "price": 1.7,
+  "entry_price": 3.6,
+  "fees": 4.0,
+  "pnl": 376.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
