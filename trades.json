@@ -1562,5 +1562,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-11T13:04:27-05:00",
+  "trade_id": "9350d14d",
+  "action": "OPEN",
+  "contract": "SPX 11/11 7625C/7635C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 5.7,
+  "entry_price": 5.7,
+  "fees": 2.0,
+  "pnl": null,
+  "reason": "Sell SPX 7625C/7635C 0DTE credit spread for $5.60 \u00b7 SPX Spreads",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
