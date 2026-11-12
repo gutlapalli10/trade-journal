@@ -1613,5 +1613,22 @@
   "conviction": "",
   "account": "paper",
   "price_estimated": false
+ },
+ {
+  "time": "2026-11-12T15:02:01-05:00",
+  "trade_id": "e6b380da",
+  "action": "CLOSE",
+  "contract": "SPX 11/12 7600C/7615C spread",
+  "underlying": "SPX",
+  "side": "call",
+  "qty": 2,
+  "price": 3.55,
+  "entry_price": 7.2,
+  "fees": 4.0,
+  "pnl": 726.0,
+  "reason": "take profit (50% of credit)",
+  "conviction": "",
+  "account": "paper",
+  "price_estimated": false
  }
 ]
